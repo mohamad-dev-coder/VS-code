@@ -3,4 +3,5 @@ void main(){
   print("Course: Git and GitHub");
   print("favorite language: Dart");
   print("Mini challenge completed");
+  print("Thank you");
 }
